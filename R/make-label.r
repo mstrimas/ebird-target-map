@@ -19,5 +19,5 @@ label_template <- "
     <span style='background:#fe6a59;width:{round(100 * (1 - n_lifers / n_species))}%;float:right'>&nbsp;</span>
   </div>
   <br/>
-  <span style='font-size:10px'>Click to view targets</span>
+  <span>Click to view targets</span>
 </div>"
