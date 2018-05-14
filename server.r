@@ -41,6 +41,7 @@ server <- function(input, output, session) {
   observeEvent(input$submit_button, {
     req(target_count())
     map_targets <- inner_join(ne_country, target_count(), by = "region") %>% 
+      make_label() %>% 
       make_popup(period = input$month)
     
     pal <- colorNumeric("viridis", domain = map_targets$n_lifers)
@@ -55,9 +56,13 @@ server <- function(input, output, session) {
                                                       weight = 1,
                                                       bringToFront = TRUE),
                   popup = ~ popup_html,
-                  popupOptions = labelOptions(
-                    #offset = c(-100, -140),
-                    #textOnly = TRUE,
+                  popupOptions = popupOptions(
+                    noWrap = TRUE
+                  ),
+                  label = ~ label_html,
+                  labelOptions = labelOptions(
+                    offset = c(-100, -140),
+                    textOnly = TRUE,
                     style = list(
                       'background' = 'rgba(255,255,255,0.95)',
                       'border-color' = 'rgba(0,0,0,1)',
@@ -71,6 +76,5 @@ server <- function(input, output, session) {
   # clicking polygon
   observeEvent(input$map_shape_click, {
     p <- input$map_shape_click$id
-    print(p)
   })
 }

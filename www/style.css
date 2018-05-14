@@ -49,6 +49,10 @@ a:active   {
   width:auto !important;
 }
 
+div.leaflet-popup-content {
+  width:auto !important;
+}
+
 div.leaflet-popup-content p {
   white-space: nowrap;
 }
