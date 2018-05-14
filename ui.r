@@ -29,7 +29,7 @@ ui <- bootstrapPage(
                              ".csv")),
         selectInput("month", "Month:", choices = months),
         sliderInput("freq_thresh", "Checklist frequency threshold", 
-                    min = 0, max = 2, value = 0.1, step = 0.01, post = "%"),
+                    min = 0, max = 1, value = 0.1, step = 0.01, post = "%"),
         fluidRow(
           column(width = 4, actionButton("submit_button", "Submit!")),
           column(width = 8, uiOutput("message", inline = TRUE))

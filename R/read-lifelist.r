@@ -3,10 +3,15 @@ read_lifelist <- function(x) {
   if (!"Species" %in% names(ll)) {
     return(NULL)
   }
-  ll <- dplyr::select(ll, common_name = Species) %>% 
-    dplyr::mutate(common_name = stringi::stri_trans_general(common_name, 
-                                                            "latin-ascii")) %>% 
-    dplyr::inner_join(auk::ebird_taxonomy, by = "common_name") %>% 
+  # both sci and common?
+  if (all(stringr::str_detect(ll$Species, " - "))) {
+    ll$Species <- stringr::str_split(ll$Species, " - ", n = 2, 
+                                     simplify = TRUE)[, 1]
+  }
+  ll <- ll %>% 
+    dplyr::mutate(scientific_name = auk::ebird_species(Species)) %>% 
+    dplyr::select(scientific_name) %>% 
+    dplyr::inner_join(auk::ebird_taxonomy, by = "scientific_name") %>% 
     dplyr::pull(species_code)
   if (length(ll) == 0) {
     return(NULL)
