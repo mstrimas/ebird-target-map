@@ -35,10 +35,10 @@ ui <- bootstrapPage(
           column(width = 8, uiOutput("message", inline = TRUE))
         ),
         div(
-          tags$small("By ", 
-                     a("Matt Strimas-Mackey", href = "http://strimas.com",
+          tags$small("Code ", 
+                     a("M. Strimas-Mackey", href = "http://strimas.com",
                        target = "_blank"),
-                     " • Data from ",
+                     " Idea A. Spencer • Data ",
                      a("eBird", href = "https://ebird.org", target = "_blank")
           ), 
           align = "center"
