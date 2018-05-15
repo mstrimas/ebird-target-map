@@ -17,7 +17,6 @@ ebird_states <- paste0(base_url, "rtype=subnational1") %>%
   filter(country_code %in% c("US", "CA")) %>% 
   pull(subnational1_code)
 
-
 # get frequencies for each country
 ebird_frequency <- function(region) {
   message(region)
