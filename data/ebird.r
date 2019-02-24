@@ -20,18 +20,21 @@ ebird_states <- paste0(base_url, "rtype=subnational1") %>%
 # get frequencies for each country
 ebird_frequency <- function(region) {
   message(region)
+  Sys.sleep(0.5)
   url <- "http://ebird.org/ebird/barchartData"  
   q <- list(r = region, 
-            byr = as.integer(format(Sys.Date(), "%Y")) - 10, 
+            byr = as.integer(format(Sys.Date(), "%Y")) - 10,
+            eyr = as.integer(format(Sys.Date(), "%Y")),
             fmt = "json")
   response <- httr::GET(url, query = q)
+  
   httr::stop_for_status(response)
   week_month <- tidyr::crossing(month = 1:12, week = 1:4)
   response <- readBin(response$content, "character") %>% 
     jsonlite::fromJSON() %>% 
     purrr::pluck("dataRows")
   if (is.null(response)) {
-    return(dplyr::data_frame())
+    return(dplyr::tibble())
   }
   response %>% 
     dplyr::select(species_code = speciesCode, values) %>% 
@@ -43,6 +46,19 @@ ebird_frequency <- function(region) {
     dplyr::ungroup() %>% 
     dplyr::mutate(region = region) %>% 
     dplyr::select(region, dplyr::everything())
+}
+safe_ebird_frequency <- function(region) {
+  result <- safely(ebird_frequency)(region)$result
+  if (is.null(result)) {
+    result <- safely(ebird_frequency)(region)$result
+  }
+  if (is.null(result)) {
+    result <- safely(ebird_frequency)(region)$result
+  }
+  if (is.null(result)) {
+    result <- safely(ebird_frequency)(region)$result
+  }
+  return(result)
 }
 # apply to each country and state
 region_freq <- map_df(c(ebird_countries, ebird_states), ebird_frequency)

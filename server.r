@@ -40,7 +40,9 @@ server <- function(input, output, session) {
   # update map
   observeEvent(input$submit_button, {
     req(target_count())
-    map_targets <- inner_join(ne_country, target_count(), by = "region") %>% 
+    map_targets <- left_join(ne_country, target_count(), by = "region") %>% 
+      mutate(n_lifers = coalesce(n_lifers, 0L),
+             n_species = coalesce(n_species, 0L)) %>% 
       make_label() %>% 
       make_popup(period = input$month)
     
