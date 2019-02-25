@@ -34,6 +34,19 @@ ui <- bootstrapPage(
           column(width = 4, actionButton("submit_button", "Submit!")),
           column(width = 8, uiOutput("message", inline = TRUE))
         ),
+        br(),
+        conditionalPanel(
+          condition = "input.submit_button > 0",
+          fluidRow(
+            column(4, strong("Region:")),
+            column(8, textOutput("selected_region"))
+          ),
+          fluidRow(
+            column(4, strong("Display:")),
+            column(8, selectInput("geolevel", NULL, "Countries", "Countries"))
+          )
+        ),
+        
         div(
           tags$small("Code ", 
                      a("M Strimas-Mackey", href = "http://strimas.com",

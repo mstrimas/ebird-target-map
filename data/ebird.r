@@ -10,12 +10,30 @@ base_url <- "http://ebird.org/ws1.1/ref/location/list?"
 ebird_countries <- paste0(base_url, "rtype=country") %>% 
   read_csv(na = "") %>% 
   clean_names() %>% 
-  pull(country_code)
+  transmute(level = "country",
+            region = country_code, 
+            parent = NA,
+            name = country_name)
 ebird_states <- paste0(base_url, "rtype=subnational1") %>% 
   read_csv(na = "") %>% 
   clean_names() %>% 
-  filter(country_code %in% c("US", "CA")) %>% 
-  pull(subnational1_code)
+  filter(country_code %in% c("US", "CA"),
+         !str_detect(subnational1_code, "-$")) %>% 
+  transmute(level = "state",
+            region = subnational1_code, 
+            parent = country_code,
+            name = subnational1_name)
+ebird_counties <- paste0(base_url, "rtype=subnational2") %>% 
+  read_csv(na = "") %>% 
+  clean_names() %>% 
+  filter(country_code %in% c("US", "CA"),
+         subnational1_code == "US-NY",
+         !str_detect(subnational1_code, "-$")) %>% 
+  transmute(level = "county",
+            region = subnational2_code, 
+            parent = subnational1_code,
+            name = subnational2_name)
+ebird_regions <- bind_rows(ebird_countries, ebird_states, ebird_counties)
 
 # get frequencies for each country
 ebird_frequency <- function(region) {
@@ -60,14 +78,19 @@ safe_ebird_frequency <- function(region) {
   }
   return(result)
 }
-# apply to each country and state
-region_freq <- map_df(c(ebird_countries, ebird_states), ebird_frequency)
+# apply to each region
+region_freq <- ebird_regions %>% 
+  mutate(freq = map(region, ebird_frequency))
 # drop non-species taxa
-region_freq <- filter(ebird_taxonomy, category == "species") %>% 
+region_freq_sp <- filter(ebird_taxonomy, category == "species") %>% 
   select(species_code) %>% 
-  inner_join(region_freq, ., by = "species_code")
+  inner_join(unnest(region_freq), ., by = "species_code") %>% 
+  select(region, species_code, month, frequency)
 
-here("data", "ebird-frequency.csv") %>% 
-  write_csv(region_freq, ., na = "")
-here("data", "ebird-frequency.rds") %>% 
-  saveRDS(region_freq, .)
+region_freq_sp <- here("data", "ebird-frequency.rds") %>% 
+  saveRDS(region_freq_sp, .)
+region_freq_sp %>% 
+  count(region) %>% 
+  rename(n_species = n) %>% 
+  inner_join(ebird_regions, ., by = "region") %>% 
+  saveRDS(here("data", "ebird-regions.rds"))
