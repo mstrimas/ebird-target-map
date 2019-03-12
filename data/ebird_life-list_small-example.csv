@@ -1,0 +1,807 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,White-faced Whistling-Duck,2,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,03 Jun 2014,L2472820,S18674562
+2,Black-bellied Whistling-Duck,30,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,27 May 2014,L2472820,S18586095
+3,Snow Goose,1,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+4,Ross's Goose,1,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+5,Greater White-fronted Goose,1,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+6,Brant,40,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+7,Cackling Goose,3,Burlington--LaSalle Park/Marina,CA-ON,21 Jan 2012,L168802,S9656769
+8,Canada Goose,,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+9,Mute Swan,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+10,Trumpeter Swan,,Toronto--Humber Bay Park (East),CA-ON,07 Mar 2009,L384530,S5067965
+11,Tundra Swan,7,Chatham-Kent - Hwy 401 corridor ,CA-ON,19 Feb 2011,L1558467,S7858658
+12,Wood Duck,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+13,Blue-winged Teal,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+14,Cinnamon Teal,,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828671
+15,Northern Shoveler,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+16,Gadwall,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+17,Eurasian Wigeon,1,Nanaimo River Estuary,CA-BC,24 Jan 2013,L290582,S12715288
+18,American Wigeon,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+19,Mallard,6,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+20,American Black Duck,,Toronto--Humber Bay Park (East),CA-ON,07 Mar 2009,L384530,S5067965
+21,Northern Pintail,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+22,Green-winged Teal,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+23,Canvasback,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+24,Redhead,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+25,Ring-necked Duck,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+26,Greater Scaup,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+27,Lesser Scaup,20,Fifty Point CA (Hamilton side),CA-ON,02 Jan 2011,L384189,S7357375
+28,King Eider,1,Hamilton--Bayfront Park,CA-ON,10 Feb 2012,L1064091,S9800975
+29,Common Eider,1,Allen's Pond--Beach Loop,US-MA,22 Jul 2017,L784803,S38269797
+30,Harlequin Duck,2,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+31,Surf Scoter,2,Santa Cruz Municipal Wharf,US-CA,15 Feb 2010,L388045,S6436486
+32,White-winged Scoter,,Toronto--Humber Bay Park (East),CA-ON,07 Mar 2009,L384530,S5067965
+33,Black Scoter,60,Stoney Creek--Grays Road at Lake Ontario,CA-ON,06 Nov 2011,L871872,S9068030
+34,Long-tailed Duck,,Tommy Thompson Park,CA-ON,20 Apr 2008,L351715,S3884034
+35,Bufflehead,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+36,Common Goldeneye,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+37,Barrow's Goldeneye,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+38,Hooded Merganser,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+39,Common Merganser,,Tommy Thompson Park,CA-ON,20 Apr 2008,L351715,S3884034
+40,Red-breasted Merganser,2,Toronto--Colonel Samuel Smith Park,CA-ON,21 Jun 2008,L421884,S3958057
+41,Ruddy Duck,1,Whitby--Lynde Shores Conservation Area,CA-ON,02 May 2010,L351712,S6359607
+42,Colombian Chachalaca,2,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+43,Speckled Chachalaca,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+44,Sickle-winged Guan,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+45,Great Curassow,1,Tortuguero,CR-L,29 Dec 2011,L446583,S9573116
+46,Scaled Quail,25,Hidalgo,US-NM,25 Feb 2011,L112574,S7828114
+47,California Quail,6,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+48,Gambel's Quail,50,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+49,Chestnut-necklaced Partridge,4,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+50,Crimson-headed Partridge,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+51,Ring-necked Pheasant,,Hemlock Hills Field Station,US-PA,07 May 2011,L1166840,S8258235
+52,Crested Fireback,4,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+53,Ruffed Grouse,1,Kinghurst Forest Nature Reserve,CA-ON,15 May 2010,L907521,S6427298
+54,Spruce Grouse,1,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,20 Apr 2012,L351718,S10522695
+55,Willow Ptarmigan,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+56,White-tailed Ptarmigan,6,Wedgemount Lake,CA-BC,18 Jul 2015,L3802754,S24327651
+57,Sooty Grouse,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+58,Wild Turkey,3,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+59,Red-throated Loon,2,Ventura,US-CA,27 Feb 2011,L151793,S7828249
+60,Pacific Loon,20,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+61,Common Loon,1,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+62,Yellow-billed Loon,1,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+63,Little Grebe,1,Luk Keng,HK-,02 Aug 2013,L1432415,S14849534
+64,Least Grebe,6,Pena Blanca Lake,US-AZ,24 Feb 2011,L129054,S7828011
+65,Pied-billed Grebe,1,Tiny Marsh,CA-ON,07 Jun 2009,L384274,S5067943
+66,Horned Grebe,1,Fifty Point CA (Hamilton side),CA-ON,28 Nov 2010,L384189,S7175557
+67,Red-necked Grebe,2,Toronto--Colonel Samuel Smith Park,CA-ON,21 Jun 2008,L421884,S3958057
+68,Eared Grebe,6,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+69,Western Grebe,1,Santa Cruz Municipal Wharf,US-CA,15 Feb 2010,L388045,S6436486
+70,Clark's Grebe,15,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+71,Lesser Flamingo,3,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+72,Waved Albatross,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+73,Cory's Shearwater,8,Race Point,US-MA,09 Sep 2017,L364733,S39112240
+74,Great Shearwater,3500,Race Point,US-MA,09 Sep 2017,L364733,S39112240
+75,Sooty Shearwater,18,Race Point,US-MA,09 Sep 2017,L364733,S39112240
+76,Manx Shearwater,6,Race Point,US-MA,09 Sep 2017,L364733,S39112240
+77,Red-billed Tropicbird,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+78,Wood Stork,3,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+79,Magnificent Frigatebird,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+80,Nazca Booby,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+81,Blue-footed Booby,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+82,Northern Gannet,1,Acadia NP--Ocean Path,US-ME,03 Sep 2017,L591108,S38977313
+83,Brandt's Cormorant,5,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+84,Pelagic Cormorant,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+85,Great Cormorant,1,Seneca Harbor Park,US-NY,18 Nov 2017,L150677,S40570319
+86,Neotropic Cormorant,2,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,21 May 2014,L2472820,S18495832
+87,Double-crested Cormorant,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+88,Anhinga,5,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+89,Oriental Darter,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+90,American White Pelican,1,Oshawa--Second Marsh/McLaughlin Bay Wildlife Reserve,CA-ON,03 Jul 2010,L351707,S6604068
+91,Brown Pelican,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+92,Peruvian Pelican,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+93,American Bittern,3,Tiny Marsh,CA-ON,07 Jun 2009,L384274,S5067943
+94,Least Bittern,2,Tiny Marsh,CA-ON,18 Jul 2010,L384274,S6652556
+95,Rufescent Tiger-Heron,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+96,Bare-throated Tiger-Heron,2,Tortuguero,CR-L,29 Dec 2011,L446583,S9573116
+97,Great Blue Heron,,Wolfe Island,CA-ON,20 Apr 2008,L1022214,S3879653
+98,Great Egret,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+99,Little Egret,,Lamma Island,HK-,06 Jul 2013,L1075672,S14754658
+100,Pacific Reef-Heron,1,Lamma Island,HK-,06 Jul 2013,L1075672,S14754658
+101,Snowy Egret,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+102,Little Blue Heron,2,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+103,Tricolored Heron,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+104,Reddish Egret,1,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+105,Cattle Egret,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+106,Green Heron,3,Tiny Marsh,CA-ON,18 Jul 2010,L384274,S6652556
+107,Striated Heron,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+108,Capped Heron,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+109,Black-crowned Night-Heron,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+110,Rufous Night-Heron,3,Mabul Island Water Bungalow,MY-12,27 Sep 2014,L1781743,S19988068
+111,Yellow-crowned Night-Heron,1,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+112,White Ibis,2,Jekyll Island--Amphitheater Pond,US-GA,30 Dec 2017,L252744,S41557034
+113,Glossy Ibis,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+114,White-faced Ibis,200,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+115,Bare-faced Ibis,1,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,21 May 2014,L2472820,S18495832
+116,Buff-necked Ibis,2,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,29 May 2014,L2472820,S18620256
+117,Roseate Spoonbill,1,Donnelley WMA (partial fall and winter restricted access),US-SC,29 Dec 2017,L454532,S41556893
+118,Black Vulture,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+119,Turkey Vulture,,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+120,California Condor,2,Pfeiffer Big Sur SP,US-CA,13 Feb 2010,L317501,S6436438
+121,Osprey,1,Carden Alvar (general location),CA-ON,01 Jul 2008,L284448,S3972358
+122,White-tailed Kite,1,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+123,Swallow-tailed Kite,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+124,Crested Serpent-Eagle,3,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+125,Wallace's Hawk-Eagle,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+126,Black Hawk-Eagle,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+127,Golden Eagle,3,Hawk Cliff,CA-ON,06 Nov 2010,L9,S7080343
+128,Black-collared Hawk,1,Tortuguero,CR-L,29 Dec 2011,L446583,S9573116
+129,Double-toothed Kite,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+130,Northern Harrier,1,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+131,Crested Goshawk,1,Sai Kung Country Park,HK-,12 Aug 2013,L2291013,S14908473
+132,Sharp-shinned Hawk,1,Bruce Peninsula--Dyer's Bay,CA-ON,03 Oct 2010,L890123,S6951829
+133,Cooper's Hawk,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+134,Northern Goshawk,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+135,Black Kite,,Lamma Island,HK-,06 Jul 2013,L1075672,S14754658
+136,Bald Eagle,2,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+137,Roadside Hawk,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+138,Black-faced Hawk,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+139,Red-shouldered Hawk,2,Hawk Cliff,CA-ON,06 Nov 2010,L9,S7080343
+140,Broad-winged Hawk,,Hemlock Hills Field Station,US-PA,07 May 2011,L1166840,S8258235
+141,Red-tailed Hawk,1,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+142,Rough-legged Hawk,1,Haines Junction--Dezadeash River,CA-YT,25 Apr 2013,L2136437,S13882093
+143,Ferruginous Hawk,3,Antelope Valley--110th St. E at E Ave. J,US-CA,20 Feb 2011,L354059,S7828083
+144,Ridgway's Rail,15,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+145,Virginia Rail,3,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+146,Sora,1,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+147,Purple Gallinule,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+148,Common Gallinule,1,Point Pelee NP--Marsh Boardwalk,CA-ON,08 May 2009,L611190,S4960493
+149,American Coot,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+150,Limpkin,3,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+151,Sandhill Crane,3,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+152,Whooping Crane,2,Aransas NWR (CTC 037) (Aransas Co.),US-TX,23 Feb 2006,L130767,S38220582
+153,Black-necked Stilt,9,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+154,American Avocet,30,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+155,American Oystercatcher,5,Silver Sands SP,US-CT,09 Jul 2017,L109158,S38044383
+156,Black Oystercatcher,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+157,Black-bellied Plover,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+158,American Golden-Plover,1,Myers Point,US-NY,29 Aug 2017,L99615,S38884557
+159,Pacific Golden-Plover,1,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+160,Southern Lapwing,15,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,20 May 2014,L2472820,S18482479
+161,Snowy Plover,65,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+162,Semipalmated Plover,2,Toronto--Toronto Islands,CA-ON,28 May 2008,L351714,S3899769
+163,Piping Plover,1,Wasaga Beach Provincial Park (general),CA-ON,18 Jul 2010,L575258,S6652565
+164,Killdeer,,Wolfe Island,CA-ON,20 Apr 2008,L1022214,S3879653
+165,Northern Jacana,6,Tortuguero,CR-L,28 Dec 2011,L446583,S9573010
+166,Wattled Jacana,1,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,03 Jun 2014,L2472820,S18674562
+167,Upland Sandpiper,5,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+168,Whimbrel,34,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+169,Long-billed Curlew,10,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+170,Marbled Godwit,8,Los Angeles,US-CA,20 Feb 2011,L110973,S7828106
+171,Ruddy Turnstone,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+172,Black Turnstone,6,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+173,Stilt Sandpiper,100,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+174,Sanderling,,Toronto--Toronto Islands,CA-ON,28 May 2008,L351714,S3899769
+175,Dunlin,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+176,Least Sandpiper,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+177,White-rumped Sandpiper,2,Race Point,US-MA,09 Sep 2017,L364733,S39112240
+178,Buff-breasted Sandpiper,3,Leamington--onion fields between Hillman Marsh and Point Pelee,CA-ON,03 Oct 2009,L384719,S5392287
+179,Pectoral Sandpiper,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+180,Semipalmated Sandpiper,3,Toronto--Colonel Samuel Smith Park,CA-ON,31 May 2009,L421884,S5067891
+181,Western Sandpiper,,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828671
+182,Short-billed Dowitcher,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+183,Long-billed Dowitcher,15,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+184,American Woodcock,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+185,Wilson's Snipe,5,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+186,Wilson's Phalarope,1,Iona Island (general),CA-BC,14 May 2016,L261851,S29644732
+187,Spotted Sandpiper,2,Toronto--Colonel Samuel Smith Park,CA-ON,21 Jun 2008,L421884,S3958057
+188,Solitary Sandpiper,1,Sapsucker Woods--Lab Building Area,US-NY,05 Sep 2017,L1379126,S39012827
+189,Greater Yellowlegs,100,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+190,Willet,30,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+191,Lesser Yellowlegs,3,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+192,Pomarine Jaeger,1,Niagara-on-the-Lake--Lake Ontario View,CA-ON,26 Nov 2011,L370459,S9201142
+193,Parasitic Jaeger,1,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+194,Common Murre,15,Santa Barbara Channel--east channel (VEN Co.),US-CA,27 Feb 2011,L605526,S7858659
+195,Razorbill,1,Niagara-on-the-Lake--Queens Royal Park,CA-ON,13 Nov 2011,L370476,S9121551
+196,Black Guillemot,1,Acadia NP--Seawall Pond,US-ME,03 Sep 2017,L1273673,S38977303
+197,Pigeon Guillemot,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+198,Marbled Murrelet,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+199,Kittlitz's Murrelet,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+200,Scripps's Murrelet,2,Santa Barbara Channel--east channel (VEN Co.),US-CA,27 Feb 2011,L605526,S7858659
+201,Ancient Murrelet,,Kenai Fjords NP--Aialik Bay,US-AK,20 Aug 2012,L781842,S12707930
+202,Cassin's Auklet,9,Santa Barbara Channel--east channel (VEN Co.),US-CA,27 Feb 2011,L605526,S7858659
+203,Rhinoceros Auklet,20,Santa Barbara Channel--east channel (VEN Co.),US-CA,27 Feb 2011,L605526,S7858659
+204,Horned Puffin,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+205,Tufted Puffin,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+206,Black-legged Kittiwake,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+207,Bonaparte's Gull,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+208,Little Gull,1,Niagara River Corridor (ON),CA-ON,28 Nov 2010,L356884,S7174054
+209,Laughing Gull,10,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+210,Franklin's Gull,1,Niagara-on-the-Lake--Lake Ontario View,CA-ON,26 Nov 2011,L370459,S9201142
+211,Heermann's Gull,1,Pfeiffer Beach,US-CA,13 Feb 2010,L909123,S6436462
+212,Mew Gull,9,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+213,Ring-billed Gull,,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+214,Western Gull,3,Pfeiffer Beach,US-CA,13 Feb 2010,L909123,S6436462
+215,Yellow-footed Gull,2,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+216,California Gull,1,Niagara River Corridor (ON),CA-ON,28 Nov 2010,L356884,S7174054
+217,Herring Gull,,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+218,Iceland Gull,4,Niagara River Corridor (ON),CA-ON,28 Nov 2010,L356884,S7174054
+219,Lesser Black-backed Gull,1,Wheatley--Harbour (Chatham-Kent side),CA-ON,03 Oct 2009,L282214,S5392263
+220,Glaucous-winged Gull,4,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+221,Glaucous Gull,1,Niagara--Adam Beck (ON),CA-ON,13 Nov 2011,L274869,S9121568
+222,Great Black-backed Gull,1,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+223,Least Tern,4,Coastal Center at Milford Point,US-CT,09 Jul 2017,L1783493,S38045891
+224,Yellow-billed Tern,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+225,Caspian Tern,2,Tommy Thompson Park,CA-ON,24 May 2009,L351715,S5016334
+226,Black Tern,75,Tiny Marsh,CA-ON,07 Jun 2009,L384274,S5067943
+227,Roseate Tern,15,Lantau Ferry,HK-,25 Jul 2013,L2293381,S14781984
+228,Black-naped Tern,2,Lantau Ferry,HK-,25 Jul 2013,L2293381,S14781984
+229,Common Tern,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+230,Arctic Tern,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+231,Forster's Tern,,Hillman Marsh Conservation Area,CA-ON,18 May 2008,L283720,S3879802
+232,Royal Tern,5,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+233,Black Skimmer,4,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+234,Rock Pigeon,,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+235,Pale-vented Pigeon,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+236,Band-tailed Pigeon,2,Los Angeles,US-CA,20 Feb 2011,L110973,S7828106
+237,Plumbeous Pigeon,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+238,Short-billed Pigeon,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+239,Eurasian Collared-Dove,50,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+240,Spotted Dove,15,Salt Lake Park,US-CA,28 Feb 2011,L860371,S7828110
+241,Asian Emerald Dove,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+242,Inca Dove,5,Patagonia,US-AZ,24 Feb 2011,L130796,S7828023
+243,Common Ground-Dove,10,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+244,Ruddy Ground-Dove,10,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,30 May 2014,L2472820,S18659472
+245,Croaking Ground-Dove,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+246,White-winged Dove,1,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+247,Zenaida Dove,3,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+248,Eared Dove,,Quito,EC-P,28 Jun 2009,L757696,S5179822
+249,Mourning Dove,2,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+250,Large Green-Pigeon,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+251,Green Imperial-Pigeon,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+252,Mountain Imperial-Pigeon,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+253,Hoatzin,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+254,Greater Ani,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+255,Smooth-billed Ani,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+256,Greater Roadrunner,1,Los Angeles,US-CA,20 Feb 2011,L110973,S7828106
+257,Greater Coucal,1,Sai Kung Country Park,HK-,31 Jul 2013,L2291013,S14849513
+258,Red-billed Malkoha,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+259,Chestnut-breasted Malkoha,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+260,Black-bellied Malkoha,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+261,Squirrel Cuckoo,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+262,Yellow-billed Cuckoo,1,"Forest Road 768, Buchanan, Virginia, US (37.549, -79.559)",US-VA,06 May 2018,L7356834,S45360076
+263,Black-billed Cuckoo,1,Tommy Thompson Park,CA-ON,24 May 2009,L351715,S5016334
+264,Great Lizard-Cuckoo,3,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+265,Square-tailed Drongo-Cuckoo,4,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+266,Barn Owl,1,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+267,Western Screech-Owl,2,Orlando Rd (N side of Huntington),US-CA,20 Feb 2011,L1069815,S7828060
+268,Eastern Screech-Owl,1,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+269,Whiskered Screech-Owl,4,Madera Canyon--Santa Cruz Co.,US-AZ,23 Feb 2011,L339643,S7828041
+270,Tawny-bellied Screech-Owl,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+271,Spectacled Owl,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+272,Great Horned Owl,1,Point Pelee National Park (general location for observations within the park),CA-ON,07 May 2010,L131153,S6395329
+273,Snowy Owl,1,Toronto--Humber Bay Park (East),CA-ON,07 Mar 2009,L384530,S5067965
+274,Brown Fish-Owl,1,Sai Kung Country Park,HK-,22 Jun 2013,L2291013,S14754699
+275,Buffy Fish-Owl,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+276,Northern Hawk Owl,2,Haines Junction--Dezadeash River,CA-YT,25 Apr 2013,L2136437,S13882093
+277,Ferruginous Pygmy-Owl,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+278,Cuban Pygmy-Owl,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+279,Burrowing Owl,1,Antelope Valley--Ave. E at 70th St. E,US-CA,20 Feb 2011,L854581,S7828077
+280,Black-and-white Owl,1,Tortuguero,CR-L,27 Dec 2011,L446583,S9572844
+281,Brown Wood-Owl,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+282,Barred Owl,,Hemlock Hills Field Station,US-PA,07 May 2011,L1166840,S8258235
+283,Great Gray Owl,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+284,Long-eared Owl,1,Bronte Creek Provincial Park,CA-ON,02 Jan 2011,L2069138,S7357303
+285,Short-eared Owl,1,Nanaimo River Estuary,CA-BC,24 Jan 2013,L290582,S12715288
+286,Boreal Owl,1,Kluane Red Squirrel Project,CA-YT,21 Mar 2013,L1850745,S13473030
+287,Northern Saw-whet Owl,1,Fifty Point CA (Hamilton side),CA-ON,28 Nov 2010,L384189,S7175557
+288,Common Nighthawk,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+289,Ladder-tailed Nightjar,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+290,Common Poorwill,2,Blue Oak Ranch Reserve (restricted access),US-CA,25 May 2011,L1073747,S8309871
+291,Chuck-will's-widow,1,West Mountain--Northwest Base,US-NY,16 Jun 2017,L5934773,S37633648
+292,Eastern Whip-poor-will,1,West Mountain--Northwest Base,US-NY,16 Jun 2017,L5934773,S37633648
+293,Great Potoo,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+294,Common Potoo,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+295,White-collared Swift,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+296,Chimney Swift,,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+297,White-throated Swift,25,Pinnacles NP,US-CA,14 Feb 2010,L302299,S6436481
+298,Antillean Palm-Swift,2,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+299,Whiskered Treeswift,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+300,White-necked Jacobin,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+301,White-whiskered Hermit,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+302,Long-billed Hermit,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+303,Brown Violetear,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+304,Long-tailed Sylph,3,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+305,Violet-tailed Sylph,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+306,Brown Inca,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+307,Buff-tailed Coronet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+308,Velvet-purple Coronet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+309,Booted Racket-tail,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+310,Purple-bibbed Whitetip,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+311,Fawn-breasted Brilliant,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+312,Green-crowned Brilliant,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+313,Empress Brilliant,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+314,Short-tailed Woodstar,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+315,Purple-throated Woodstar,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+316,Ruby-throated Hummingbird,1,Rondeau Provincial Park (general location for observations within the park),CA-ON,10 May 2009,L265518,S4961001
+317,Anna's Hummingbird,3,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+318,Costa's Hummingbird,1,Maricopa,US-AZ,23 Feb 2011,L110863,S7828042
+319,Rufous Hummingbird,1,Patagonia,US-AZ,24 Feb 2011,L130796,S7828023
+320,Allen's Hummingbird,1,Malibu Lagoon,US-CA,20 Feb 2011,L597658,S7828727
+321,Cuban Emerald,7,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+322,Crowned Woodnymph,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+323,Steely-vented Hummingbird,1,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+324,Rufous-tailed Hummingbird,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+325,Golden-headed Quetzal,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+326,Cuban Trogon,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+327,Amazonian Trogon,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+328,Red-naped Trogon,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+329,Diard's Trogon,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+330,Rhinoceros Hornbill,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+331,Bushy-crested Hornbill,3,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+332,Oriental Pied-Hornbill,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+333,Wrinkled Hornbill,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+334,Cuban Tody,3,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+335,Andean Motmot,2,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+336,Ringed Kingfisher,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+337,Belted Kingfisher,,Presqu'ile Provincial Park (general location),CA-ON,05 Apr 2008,L351706,S3879647
+338,Amazon Kingfisher,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+339,Green Kingfisher,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+340,Blue-throated Bee-eater,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+341,Pied Puffbird,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+342,White-fronted Nunbird,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+343,White-eared Jacamar,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+344,Red-throated Barbet,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+345,Scarlet-crowned Barbet,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+346,Red-headed Barbet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+347,Toucan Barbet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+348,Crimson-rumped Toucanet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+349,Collared Aracari,2,Tortuguero,CR-L,27 Dec 2011,L446583,S9572844
+350,Chestnut-eared Aracari,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+351,Many-banded Aracari,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+352,Ivory-billed Aracari,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+353,Golden-collared Toucanet,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+354,Yellow-throated Toucan,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+355,Choco Toucan,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+356,Lafresnaye's Piculet,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+357,Rufous Piculet,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+358,Red-headed Woodpecker,2,Point Pelee National Park (general location for observations within the park),CA-ON,08 May 2009,L131153,S4960469
+359,Acorn Woodpecker,4,Malibu Creek SP,US-CA,20 Feb 2011,L305422,S7828062
+360,Red-crowned Woodpecker,1,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,30 May 2014,L2472820,S18659472
+361,Gila Woodpecker,15,Pinal,US-AZ,23 Feb 2011,L110867,S7828033
+362,Red-bellied Woodpecker,2,Wheatley Provincial Park,CA-ON,10 May 2009,L385606,S4960922
+363,West Indian Woodpecker,5,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+364,Yellow-bellied Sapsucker,1,Toronto--Queen's Park,CA-ON,30 Apr 2010,L571677,S6346104
+365,Red-naped Sapsucker,1,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+366,Red-breasted Sapsucker,1,Patagonia,US-AZ,24 Feb 2011,L130796,S7828023
+367,Cuban Green Woodpecker,2,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+368,Ladder-backed Woodpecker,3,Tucson,US-AZ,23 Feb 2011,L125624,S7828037
+369,Nuttall's Woodpecker,1,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+370,Downy Woodpecker,2,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+371,Smoky-brown Woodpecker,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+372,Hairy Woodpecker,2,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+373,Arizona Woodpecker,2,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+374,Red-cockaded Woodpecker,8,Webb Wildlife Center,US-SC,31 Dec 2017,L758462,S41557374
+375,American Three-toed Woodpecker,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+376,Black-backed Woodpecker,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+377,Red-stained Woodpecker,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+378,Golden-olive Woodpecker,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+379,Northern Flicker,1,Toronto--Colonel Samuel Smith Park,CA-ON,25 May 2008,L421884,S3892436
+380,Fernandina's Flicker,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+381,Chestnut-colored Woodpecker,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+382,Rufous-headed Woodpecker,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+383,Chestnut Woodpecker,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+384,Lineated Woodpecker,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+385,Pileated Woodpecker,1,The Massasauga PP -- Little Blackstone Lake,CA-ON,12 Aug 2010,L1007074,S6982118
+386,Crimson-crested Woodpecker,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+387,Guayaquil Woodpecker,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+388,Buff-necked Woodpecker,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+389,Great Slaty Woodpecker,4,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+390,Collared Forest-Falcon,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+391,Carunculated Caracara,,Cotopaxi National Park,EC-X,30 Jun 2009,L757698,S5179830
+392,Crested Caracara,1,Valle del Cocora,CO-QUI,07 Jun 2014,L2350379,S18734951
+393,Yellow-headed Caracara,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+394,Laughing Falcon,1,"Cariari, Limon, Costa Rica",CR-L,27 Dec 2011,L1373695,S9572797
+395,American Kestrel,1,Toronto--Queen's Park,CA-ON,25 Jun 2008,L571677,S3972339
+396,Merlin,3,Point Pelee National Park (general location for observations within the park),CA-ON,03 Oct 2009,L131153,S5392240
+397,Peregrine Falcon,,"Sun Life Financial Building, Islington and Bloor",CA-ON,21 Jun 2008,L567757,S3958118
+398,Prairie Falcon,1,Pinal,US-AZ,23 Feb 2011,L110867,S7828033
+399,Cockatiel,1,Toronto--Toronto Islands,CA-ON,05 Sep 2009,L351714,S5344973
+400,Scarlet-shouldered Parrotlet,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+401,Cobalt-winged Parakeet,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+402,Orange-cheeked Parrot,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+403,Red-billed Parrot,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+404,Blue-headed Parrot,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+405,Cuban Parrot,3,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+406,Spectacled Parrotlet,30,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,20 May 2014,L2472820,S18482479
+407,Pacific Parrotlet,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+408,Black-headed Parrot,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+409,Olive-throated Parakeet,4,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+410,Dusky-headed Parakeet,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+411,Great Green Macaw,2,Tortuguero,CR-L,28 Dec 2011,L446583,S9573010
+412,Chestnut-fronted Macaw,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+413,Black-and-red Broadbill,3,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+414,Black-and-yellow Broadbill,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+415,Black-crowned Pitta,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+416,Plain-throated Antwren,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+417,Amazonian Streaked-Antwren,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+418,Pacific Antwren,1,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+419,Chestnut-backed Antbird,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+420,Giant Antpitta,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+421,Long-billed Woodcreeper,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+422,Strong-billed Woodcreeper,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+423,Spotted Woodcreeper,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+424,Montane Woodcreeper,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+425,Buff-fronted Foliage-gleaner,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+426,Red-faced Spinetail,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+427,Slaty-capped Flycatcher,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+428,Ornate Flycatcher,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+429,Common Tody-Flycatcher,2,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+430,Cinnamon Flycatcher,2,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+431,Olive-sided Flycatcher,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+432,Western Wood-Pewee,1,Iona Island (general),CA-BC,18 May 2015,L261851,S23517746
+433,Eastern Wood-Pewee,1,Toronto--Queen's Park,CA-ON,29 May 2009,L571677,S5067881
+434,Cuban Pewee,4,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+435,Yellow-bellied Flycatcher,1,Toronto--Colonel Samuel Smith Park,CA-ON,25 May 2008,L421884,S3892436
+436,Acadian Flycatcher,2,Raven Cliff Campground,US-VA,05 May 2018,L718682,S45321309
+437,Alder Flycatcher,1,Sapsucker Woods--CLO deck,US-NY,22 Jun 2017,L747847,S37753291
+438,Willow Flycatcher,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+439,Least Flycatcher,2,Kinghurst Forest Nature Reserve,CA-ON,15 May 2010,L907521,S6427298
+440,Gray Flycatcher,1,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+441,Pacific-slope Flycatcher,1,Santa Cruz Island--Prisoners Harbor,US-CA,27 Feb 2011,L375253,S7828246
+442,Black Phoebe,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+443,Eastern Phoebe,1,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+444,Say's Phoebe,10,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+445,Vermilion Flycatcher,1,Patagonia Lake State Park,US-AZ,24 Feb 2011,L129050,S7828018
+446,Drab Water Tyrant,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+447,Masked Water-Tyrant,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+448,Cinnamon Attila,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+449,Rufous Mourner,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+450,Short-crested Flycatcher,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+451,Great Crested Flycatcher,1,Toronto--Toronto Islands,CA-ON,28 May 2008,L351714,S3899769
+452,La Sagra's Flycatcher,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+453,Lesser Kiskadee,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+454,Great Kiskadee,,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+455,Rusty-margined Flycatcher,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+456,Social Flycatcher,,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+457,Gray-capped Flycatcher,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+458,Dusky-chested Flycatcher,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+459,Golden-crowned Flycatcher,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+460,Crowned Slaty Flycatcher,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+461,Tropical Kingbird,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+462,Cassin's Kingbird,1,Los Angeles,US-CA,20 Feb 2011,L110973,S7828106
+463,Thick-billed Kingbird,1,Poggi Creek greenbelt,US-CA,21 Feb 2011,L1096830,S26235294
+464,Eastern Kingbird,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+465,Loggerhead Kingbird,10,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+466,Andean Cock-of-the-rock,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+467,Olivaceous Piha,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+468,Purple-throated Fruitcrow,2,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+469,Amazonian Umbrellabird,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+470,Bare-necked Fruitcrow,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+471,Masked Tityra,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+472,White-browed Purpletuft,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+473,White-breasted Woodswallow,2,Lahad Datu--seafront,MY-12,27 Sep 2014,L1590954,S19988053
+474,Common Iora,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+475,Gray-chinned Minivet,3,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+476,Bornean Whistler,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+477,Long-tailed Shrike,1,Sai Kung Country Park,HK-,10 Aug 2013,L2291013,S14893158
+478,Loggerhead Shrike,1,Antelope Valley--Ave. K at 60th St. E,US-CA,20 Feb 2011,L828604,S7828079
+479,Northern Shrike,1,Bronte Creek Provincial Park,CA-ON,02 Jan 2011,L2069138,S7357303
+480,White-eyed Vireo,2,Point Pelee National Park (general location for observations within the park),CA-ON,07 May 2010,L131153,S6395329
+481,Cuban Vireo,2,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+482,Hutton's Vireo,1,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+483,Yellow-throated Vireo,,Hemlock Hills Field Station,US-PA,06 May 2011,L1166840,S8258182
+484,Cassin's Vireo,1,Happy Canyon Rd.,US-CA,26 Feb 2011,L367318,S7841701
+485,Blue-headed Vireo,1,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+486,Plumbeous Vireo,1,Patagonia Lake State Park,US-AZ,24 Feb 2011,L129050,S7828018
+487,Philadelphia Vireo,1,Sapsucker Woods--Powerline Cut,US-NY,16 Sep 2017,L1477502,S39206370
+488,Warbling Vireo,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+489,Red-eyed Vireo,,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+490,Ashy Drongo,5,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+491,Hair-crested Drongo,3,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+492,Greater Racket-tailed Drongo,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+493,Malaysian Pied-Fantail,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+494,White-throated Fantail,5,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+495,Blyth's Paradise-Flycatcher,3,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+496,Crested Jay,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+497,Black Magpie,,Lahad Datu--seafront,MY-12,27 Sep 2014,L1590954,S19988053
+498,Gray Jay,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+499,Black-collared Jay,4,Valle del Cocora,CO-QUI,07 Jun 2014,L2350379,S18734951
+500,Violaceous Jay,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+501,Steller's Jay,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+502,Blue Jay,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+503,Island Scrub-Jay,15,Santa Cruz Island--Prisoners Harbor,US-CA,27 Feb 2011,L375253,S7828246
+504,California Scrub-Jay,2,Pinnacles NP,US-CA,14 Feb 2010,L302299,S6436481
+505,Woodhouse's Scrub-Jay,10,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+506,Mexican Jay,25,Madera Canyon--Santa Cruz Co.,US-AZ,23 Feb 2011,L339643,S7828041
+507,Bornean Green-Magpie,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+508,Eurasian Magpie,1,"Tian Tan Buddha, Lantau Island",HK-,25 Jul 2013,L1058711,S14770903
+509,Black-billed Magpie,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+510,Yellow-billed Magpie,20,Happy Canyon Rd.,US-CA,26 Feb 2011,L367318,S7841701
+511,Clark's Nutcracker,1,Marriott Basin,CA-BC,28 Jun 2015,L3758462,S24094215
+512,Slender-billed Crow,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+513,American Crow,1,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+514,Northwestern Crow,,Glacier Bay NP--Glacier Bay,US-AK,13 Jul 2012,L1633817,S12707902
+515,Cuban Crow,3,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+516,Fish Crow,3,Fort Erie--Bowen Rd,CA-ON,18 Feb 2012,L1421414,S9883005
+517,Chihuahuan Raven,10,Patagonia Lake State Park,US-AZ,24 Feb 2011,L129050,S7828018
+518,Large-billed Crow,3,Sai Kung Main Town,HK-,25 Jul 2013,L2293425,S14782064
+519,Common Raven,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+520,Horned Lark,12,Beeton--9th Line north,CA-ON,17 Jul 2010,L450492,S6648277
+521,Blue-and-white Swallow,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+522,Northern Rough-winged Swallow,5,Tommy Thompson Park,CA-ON,24 May 2009,L351715,S5016334
+523,Southern Rough-winged Swallow,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+524,Purple Martin,6,Pelee Island,CA-ON,08 May 2010,L424966,S6395353
+525,Tree Swallow,,Tommy Thompson Park,CA-ON,20 Apr 2008,L351715,S3884034
+526,White-winged Swallow,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+527,Mangrove Swallow,30,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+528,Violet-green Swallow,5,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+529,Bank Swallow,,Toronto--High Park,CA-ON,29 Jun 2008,L11,S3972354
+530,Barn Swallow,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+531,Pacific Swallow,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+532,Cliff Swallow,,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+533,Gray-headed Canary-Flycatcher,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+534,Carolina Chickadee,5,Congaree NP (Congaree Swamp),US-SC,29 Dec 2017,L109521,S41407436
+535,Black-capped Chickadee,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+536,Mountain Chickadee,3,Happy Canyon Rd.,US-CA,26 Feb 2011,L367318,S7841701
+537,Mexican Chickadee,15,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+538,Chestnut-backed Chickadee,2,Pfeiffer Big Sur SP,US-CA,13 Feb 2010,L317501,S6436438
+539,Boreal Chickadee,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+540,Bridled Titmouse,15,Madera Canyon--Santa Cruz Co.,US-AZ,23 Feb 2011,L339643,S7828041
+541,Oak Titmouse,4,Malibu Creek SP,US-CA,20 Feb 2011,L305422,S7828062
+542,Tufted Titmouse,1,Niagara River Corridor (ON),CA-ON,28 Nov 2010,L356884,S7174054
+543,Verdin,1,California Aqueduct--165th St. East,US-CA,20 Feb 2011,L846361,S7828093
+544,Bushtit,25,Malibu Creek SP,US-CA,20 Feb 2011,L305422,S7828062
+545,Red-breasted Nuthatch,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+546,White-breasted Nuthatch,2,Rondeau Provincial Park (general location for observations within the park),CA-ON,10 May 2009,L265518,S4961001
+547,Pygmy Nuthatch,6,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+548,Velvet-fronted Nuthatch,1,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+549,Brown Creeper,1,Presqu'ile Provincial Park (general location),CA-ON,14 Aug 2010,L351706,S6776832
+550,Rock Wren,2,Antelope Valley--Ave. K at 60th St. E,US-CA,20 Feb 2011,L828604,S7828079
+551,Canyon Wren,1,Malibu Creek SP,US-CA,20 Feb 2011,L305422,S7828062
+552,House Wren,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+553,Pacific Wren,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+554,Winter Wren,1,Pena Blanca Lake,US-AZ,24 Feb 2011,L129054,S7828011
+555,Sedge Wren,2,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+556,Marsh Wren,2,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+557,Carolina Wren,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+558,Bewick's Wren,3,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+559,Cactus Wren,2,Madera Canyon--Pima Co.,US-AZ,24 Feb 2011,L375967,S7828029
+560,Gray-breasted Wood-Wren,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+561,Blue-gray Gnatcatcher,4,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+562,Black-tailed Gnatcatcher,20,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+563,American Dipper,1,Marriott Basin,CA-BC,28 Jun 2015,L3758462,S24094215
+564,Red-whiskered Bulbul,,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+565,Light-vented Bulbul,,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+566,Red-eyed Bulbul,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+567,Ochraceous Bulbul,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+568,Chestnut Bulbul,1,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+569,Golden-crowned Kinglet,1,Point Pelee National Park (general location for observations within the park),CA-ON,03 Oct 2009,L131153,S5392240
+570,Ruby-crowned Kinglet,,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+571,Mountain Tailorbird,2,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+572,Sunda Bush Warbler,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+573,Yellow-breasted Warbler,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+574,Black-capped Donacobius,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+575,Common Tailorbird,,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+576,Dark-necked Tailorbird,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+577,Wrentit,3,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+578,Chestnut-crested Yuhina,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+579,Japanese White-eye,,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+580,Black-capped White-eye,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+581,Bold-striped Tit-Babbler,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+582,Chestnut-backed Scimitar-Babbler,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+583,Chestnut-rumped Babbler,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+584,Gray-throated Babbler,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+585,Temminck's Babbler,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+586,Mountain Wren-Babbler,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+587,Masked Laughingthrush,2,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+588,Chestnut-hooded Laughingthrush,10,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+589,Silver-eared Mesia,1,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+590,Blue-winged Minla,2,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+591,Oriental Magpie-Robin,5,Sai Kung Main Town,HK-,25 Jul 2013,L2293425,S14782064
+592,White-rumped Shama,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+593,Hainan Blue Flycatcher,1,Sai Kung Country Park,HK-,23 Jul 2013,L2291013,S14754723
+594,Pale Blue Flycatcher,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+595,Malaysian Blue Flycatcher,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+596,Indigo Flycatcher,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+597,Bornean Whistling-Thrush,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+598,White-crowned Forktail,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+599,Orange-headed Thrush,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+600,Eastern Bluebird,2,Carden Alvar (general location),CA-ON,01 Jul 2008,L284448,S3972358
+601,Western Bluebird,2,Pinnacles NP,US-CA,14 Feb 2010,L302299,S6436481
+602,Mountain Bluebird,1,Happy Canyon Rd.,US-CA,26 Feb 2011,L367318,S7841701
+603,Townsend's Solitaire,1,9th and Courtenay,CA-BC,29 Apr 2015,L3601895,S23142422
+604,Veery,3,Toronto--Queen's Park,CA-ON,13 May 2009,L571677,S4974200
+605,Gray-cheeked Thrush,2,Toronto--Trinity Bellwoods Park,CA-ON,21 May 2010,L910459,S6445634
+606,Bicknell's Thrush,2,Giant Mountain,US-NY,17 Jun 2017,L1786667,S37650018
+607,Swainson's Thrush,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+608,Hermit Thrush,2,Toronto--Queen's Park,CA-ON,30 Apr 2010,L571677,S6346104
+609,Wood Thrush,1,Toronto--Queen's Park,CA-ON,11 May 2010,L571677,S6401661
+610,Black-billed Thrush,3,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,30 May 2014,L2472820,S18659472
+611,Great Thrush,,Quito,EC-P,28 Jun 2009,L757696,S5179822
+612,American Robin,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+613,Red-legged Thrush,30,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+614,Varied Thrush,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+615,Fruit-hunter,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+616,Gray Catbird,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+617,Curve-billed Thrasher,15,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+618,Brown Thrasher,1,Toronto--Toronto Islands,CA-ON,28 May 2008,L351714,S3899769
+619,California Thrasher,1,Lake Palmdale,US-CA,20 Feb 2011,L520323,S7828068
+620,LeConte's Thrasher,2,Antelope Valley--Ave. K at 60th St. E,US-CA,20 Feb 2011,L828604,S7828079
+621,Crissal Thrasher,2,Maricopa,US-AZ,23 Feb 2011,L110863,S7828042
+622,Long-tailed Mockingbird,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+623,Northern Mockingbird,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+624,Common Hill Myna,4,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+625,European Starling,,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+626,Black-collared Starling,1,Sai Kung Main Town,HK-,25 Jul 2013,L2293425,S14782064
+627,Crested Myna,4,Sai Kung Main Town,HK-,25 Jul 2013,L2293425,S14782064
+628,Greater Green Leafbird,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+629,Lesser Green Leafbird,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+630,Yellow-breasted Flowerpecker,1,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+631,Scarlet-backed Flowerpecker,2,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+632,Ruby-cheeked Sunbird,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+633,Plain Sunbird,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+634,Olive-backed Sunbird,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+635,Temminck's Sunbird,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,29 Sep 2014,L923936,S19988134
+636,Crimson Sunbird,2,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+637,Little Spiderhunter,,Danum Valley Field Centre (DVFC),MY-12,25 Sep 2014,L1091511,S19988034
+638,Gray Wagtail,1,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+639,White Wagtail,1,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336
+640,American Pipit,,Bruce Peninsula--St. Jean Point,CA-ON,02 Oct 2010,L357704,S6951825
+641,Bohemian Waxwing,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+642,Cedar Waxwing,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+643,Phainopepla,2,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+644,Lapland Longspur,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+645,Snow Bunting,2,Burlington--LaSalle Park/Marina,CA-ON,06 Nov 2011,L168802,S9070570
+646,Ovenbird,,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+647,Worm-eating Warbler,1,Cuba--Zapata National Park,CU-04,13 Jan 2011,L1064842,S7424080
+648,Louisiana Waterthrush,3,Mulholland Wildflower Preserve,US-NY,19 Apr 2017,L124514,S36089376
+649,Northern Waterthrush,3,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+650,Blue-winged Warbler,1,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+651,Black-and-white Warbler,1,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+652,Prothonotary Warbler,1,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+653,Swainson's Warbler,1,"New River Gorge--Fern Creek, Endless Wall Trailhead #2",US-WV,05 May 2018,L3568751,S45281036
+654,Tennessee Warbler,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+655,Orange-crowned Warbler,15,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+656,Nashville Warbler,4,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+657,MacGillivray's Warbler,1,Yosemite Valley,US-CA,11 Jun 2011,L197804,S8594566
+658,Mourning Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,25 May 2008,L421884,S3892436
+659,Common Yellowthroat,10,Point Pelee NP--Marsh Boardwalk,CA-ON,08 May 2009,L611190,S4960493
+660,Hooded Warbler,,Hemlock Hills Field Station,US-PA,27 Apr 2011,L1166840,S8256125
+661,American Redstart,2,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+662,Cape May Warbler,1,Point Pelee NP--Woodland Nature Trail,CA-ON,09 May 2009,L910342,S4960561
+663,Cerulean Warbler,1,Point Pelee NP--Marsh Boardwalk,CA-ON,08 May 2009,L611190,S4960493
+664,Northern Parula,2,Point Pelee National Park (general location for observations within the park),CA-ON,08 May 2009,L131153,S4960510
+665,Tropical Parula,1,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,30 May 2014,L2472820,S18659472
+666,Magnolia Warbler,,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+667,Bay-breasted Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+668,Blackburnian Warbler,1,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+669,Yellow Warbler,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+670,Chestnut-sided Warbler,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+671,Blackpoll Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+672,Black-throated Blue Warbler,,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+673,Palm Warbler,1,Point Pelee National Park (general location for observations within the park),CA-ON,19 May 2008,L131153,S3879841
+674,Pine Warbler,1,Toronto--Queen's Park,CA-ON,30 Apr 2010,L571677,S6346104
+675,Yellow-rumped Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+676,Yellow-throated Warbler,6,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+677,Prairie Warbler,3,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+678,Black-throated Gray Warbler,1,Tucson,US-AZ,23 Feb 2011,L125624,S7828037
+679,Townsend's Warbler,4,Marriott Basin,CA-BC,28 Jun 2015,L3758462,S24094215
+680,Black-throated Green Warbler,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+681,Three-striped Warbler,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+682,Canada Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+683,Wilson's Warbler,1,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+684,Slate-throated Redstart,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+685,Red-capped Cardinal,,Sani Lodge,EC-U,05 Jul 2009,L485043,S5179917
+686,Rufous-crested Tanager,1,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+687,Flame-crested Tanager,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+688,White-lined Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+689,Flame-rumped Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+690,Silver-beaked Tanager,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+691,Masked Crimson Tanager,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+692,Blue-winged Mountain-Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+693,Fawn-breasted Tanager,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+694,Blue-gray Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+695,Palm Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+696,Blue-capped Tanager,1,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+697,Rufous-throated Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+698,Golden-naped Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+699,Black-capped Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+700,Golden-hooded Tanager,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+701,Beryl-spangled Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+702,Metallic-green Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+703,Opal-rumped Tanager,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+704,Opal-crowned Tanager,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+705,Saffron-crowned Tanager,2,"Finca Alejandría ""El Paraiso de Los Colibries""",CO-VAC,15 Jun 2014,L2057859,S18827014
+706,Flame-faced Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+707,Golden Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+708,Swallow Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+709,Black-faced Dacnis,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+710,Yellow-bellied Dacnis,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+711,Green Honeycreeper,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+712,Collared Warbling-Finch,,Isla de la Plata,EC-M,07 Jul 2009,L860856,S5179936
+713,Saffron Finch,20,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,21 May 2014,L2472820,S18495832
+714,Blue-black Grassquit,30,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,30 May 2014,L2472820,S18659472
+715,Variable Seedeater,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+716,Yellow-bellied Seedeater,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+717,Bananaquit,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+718,Yellow-faced Grassquit,,Paz De Las Aves,EC-P,10 Jul 2009,L757728,S5180002
+719,Buff-throated Saltator,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+720,Black-winged Saltator,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+721,Grasshopper Sparrow,3,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+722,Saltmarsh Sparrow,7,"Ninigret Pond Mudflats, east of the breach",US-RI,22 Jul 2017,L4209447,S38265931
+723,Seaside Sparrow,3,"Ninigret Pond Mudflats, east of the breach",US-RI,22 Jul 2017,L4209447,S38265931
+724,American Tree Sparrow,,Toronto--Humber Bay Park (East),CA-ON,07 Mar 2009,L384530,S5067965
+725,Chipping Sparrow,10,Point Pelee National Park (general location for observations within the park),CA-ON,08 May 2009,L131153,S4960510
+726,Clay-colored Sparrow,1,Clay-colored Sparrow Spot,US-NY,20 Jul 2017,L6105103,S38229572
+727,Black-chinned Sparrow,2,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+728,Field Sparrow,1,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+729,Brewer's Sparrow,15,Maricopa,US-AZ,23 Feb 2011,L110863,S7828042
+730,Black-throated Sparrow,8,Saddleback Butte SP,US-CA,20 Feb 2011,L747142,S7828085
+731,Lark Sparrow,1,San Diego,US-CA,21 Feb 2011,L110991,S7828052
+732,Lark Bunting,10,Madera Canyon--Pima Co.,US-AZ,24 Feb 2011,L375967,S7828029
+733,Fox Sparrow,1,"Cargill, Ontario",CA-ON,31 Oct 2009,L797255,S5493775
+734,Dark-eyed Junco,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+735,Yellow-eyed Junco,10,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+736,Rufous-collared Sparrow,,Quito,EC-P,28 Jun 2009,L757696,S5179822
+737,White-crowned Sparrow,10,Point Pelee NP--Tip,CA-ON,09 May 2009,L611224,S4960533
+738,Golden-crowned Sparrow,30,Happy Canyon Rd.,US-CA,26 Feb 2011,L367318,S7841701
+739,Harris's Sparrow,1,Reifel Bird Sanctuary,CA-BC,22 Mar 2015,L124345,S22472774
+740,White-throated Sparrow,3,Rondeau Provincial Park (general location for observations within the park),CA-ON,10 May 2009,L265518,S4961001
+741,Vesper Sparrow,15,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+742,Savannah Sparrow,1,Carden Alvar (general location),CA-ON,01 Jul 2008,L284448,S3972358
+743,Song Sparrow,,Toronto--Colonel Samuel Smith Park,CA-ON,21 Jun 2008,L421884,S3958057
+744,Lincoln's Sparrow,1,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+745,Swamp Sparrow,4,Point Pelee National Park (general location for observations within the park),CA-ON,09 May 2010,L131153,S6395364
+746,Canyon Towhee,1,Madera Canyon--Pima Co.,US-AZ,24 Feb 2011,L375967,S7828029
+747,Abert's Towhee,3,Imperial,US-CA,22 Feb 2011,L110967,S7828048
+748,California Towhee,1,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+749,Rufous-crowned Sparrow,2,Santa Cruz Island--Prisoners Harbor,US-CA,27 Feb 2011,L375253,S7828246
+750,Green-tailed Towhee,2,Madera Canyon--Pima Co.,US-AZ,24 Feb 2011,L375967,S7828029
+751,Spotted Towhee,20,Cochise,US-AZ,25 Feb 2011,L110857,S7827998
+752,Eastern Towhee,1,Toronto--Trinity Bellwoods Park,CA-ON,13 Apr 2011,L910459,S8033354
+753,Western Spindalis,1,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+754,Yellow-headed Warbler,4,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+755,Dusky-faced Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+756,Hepatic Tanager,1,Madera Canyon--Santa Cruz Co.,US-AZ,24 Feb 2011,L339643,S7828014
+757,Summer Tanager,1,Tortuguero,CR-L,28 Dec 2011,L446583,S9573038
+758,Scarlet Tanager,1,Wheatley Provincial Park,CA-ON,18 May 2008,L385606,S3879717
+759,Western Tanager,2,Yosemite Valley,US-CA,11 Jun 2011,L197804,S8594566
+760,White-winged Tanager,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+761,Northern Cardinal,,Toronto--High Park,CA-ON,20 Apr 2008,L11,S3879657
+762,Pyrrhuloxia,1,Madera Canyon--Pima Co.,US-AZ,24 Feb 2011,L375967,S7828029
+763,Rose-breasted Grosbeak,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+764,Black-headed Grosbeak,1,Iona Island (general),CA-BC,14 May 2016,L261851,S29644732
+765,Lazuli Bunting,1,Patagonia,US-AZ,24 Feb 2011,L130796,S7828023
+766,Indigo Bunting,3,Mono Cliffs Provincial Park,CA-ON,08 Jun 2008,L2786406,S3921457
+767,Painted Bunting,2,"(31.07, -81.41)",US-GA,30 Dec 2017,L6630999,S41436204
+768,Dickcissel,1,"3023 CR 18, Gorham, NY",US-NY,23 Jun 2017,L6011600,S37767997
+769,Yellow-headed Blackbird,750,Pinal,US-AZ,23 Feb 2011,L110867,S7828033
+770,Bobolink,1,Tiny Marsh,CA-ON,07 Jun 2009,L384274,S5067943
+771,Western Meadowlark,1,Pearblossom Park,US-CA,20 Feb 2011,L520338,S7828090
+772,Eastern Meadowlark,2,Carden Alvar (general location),CA-ON,14 Jun 2009,L284448,S5087035
+773,Montezuma Oropendola,10,Tortuguero,CR-L,27 Dec 2011,L446583,S9572844
+774,Yellow-rumped Cacique,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+775,Orchard Oriole,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+776,Bullock's Oriole,,Blue Oak Ranch Reserve (restricted access),US-CA,25 May 2011,L1073747,S8309871
+777,Baltimore Oriole,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+778,Red-winged Blackbird,,Tommy Thompson Park,CA-ON,20 Apr 2008,L351715,S3884034
+779,Tawny-shouldered Blackbird,1,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+780,Shiny Cowbird,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+781,Brown-headed Cowbird,,Wolfe Island,CA-ON,20 Apr 2008,L1022214,S3879653
+782,Cuban Blackbird,10,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+783,Rusty Blackbird,1,Bruce Peninsula--Howdenvale Road,CA-ON,02 Oct 2010,L357700,S6951824
+784,Brewer's Blackbird,30,Pigeon Pt.,US-CA,13 Feb 2010,L271476,S6436406
+785,Common Grackle,,Toronto--Colonel Samuel Smith Park,CA-ON,24 May 2008,L421884,S3892399
+786,Boat-tailed Grackle,5,Waterfront Park,US-SC,29 Dec 2017,L2107197,S41406678
+787,Great-tailed Grackle,10,Apollo Park,US-CA,20 Feb 2011,L469058,S7828071
+788,Greater Antillean Grackle,30,Cuba--Playa Jibacoa,CU-16,12 Jan 2011,L1064831,S7423994
+789,Yellow-hooded Blackbird,10,Centro Internacional de Agricultura Tropical--Palmira,CO-VAC,27 May 2014,L2472820,S18586095
+790,Orange-crowned Euphonia,,Mindo,EC-P,09 Jul 2009,L755369,S5179957
+791,Olive-backed Euphonia,3,Tortuguero,CR-L,28 Dec 2011,L446583,S9572932
+792,Orange-bellied Euphonia,,Sani Lodge,EC-U,04 Jul 2009,L485043,S5179891
+793,Evening Grosbeak,4,Algonquin Provincial Park--Visitor Centre,CA-ON,20 Apr 2012,L492744,S10522713
+794,Pine Grosbeak,5,Miracle Beach Provincial Park,CA-BC,25 Jan 2013,L340560,S12757212
+795,Gray-crowned Rosy-Finch,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+796,House Finch,1,Point Pelee National Park (general location for observations within the park),CA-ON,08 May 2009,L131153,S4960469
+797,Purple Finch,2,Los Angeles,US-CA,20 Feb 2011,L110973,S7828106
+798,Common Redpoll,2,Mountsberg CA (Wellington side),CA-ON,17 Mar 2012,L1303188,S10192578
+799,Red Crossbill,,Olympic National Park,US-WA,14 Aug 2009,L384272,S6396864
+800,White-winged Crossbill,,Kluane Red Squirrel Project,CA-YT,01 Jun 2012,L1850745,S12379404
+801,Pine Siskin,9,St. Andrew's Priory,US-CA,20 Feb 2011,L228773,S7828100
+802,Lesser Goldfinch,4,Malibu Creek SP,US-CA,20 Feb 2011,L305422,S7828062
+803,American Goldfinch,,Point Pelee National Park (general location for observations within the park),CA-ON,17 May 2008,L131153,S3879711
+804,House Sparrow,,Toronto--High Park,CA-ON,23 May 2008,L11,S3885726
+805,Eurasian Tree Sparrow,,Sai Kung Main Town,HK-,25 Jul 2013,L2293425,S14782064
+806,White-rumped Munia,5,Tai Po Kau,HK-,10 Aug 2013,L2313880,S14895336

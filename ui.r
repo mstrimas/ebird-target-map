@@ -38,20 +38,23 @@ ui <- bootstrapPage(
         conditionalPanel(
           condition = "input.submit_button > 0",
           fluidRow(
-            column(4, strong("Region:")),
-            column(8, textOutput("selected_region"))
+            column(12, selectInput("geolevel", "Display", 
+                                  c("Countries" = "country",
+                                    "States (US & Canada)" = "state",
+                                    "Counties (US)" = "county"), 
+                                  selected = "country"))
           ),
-          fluidRow(
-            column(4, strong("Display:")),
-            column(8, selectInput("geolevel", NULL, "Countries", "Countries"))
-          )
+          fluidRow(column(12, 
+            p(strong("Note: "), "displaying all counties will take a long",
+              "time to load.")
+          ))
         ),
         
         div(
           tags$small("Code ", 
-                     a("M Strimas-Mackey", href = "http://strimas.com",
+                     a("M. Strimas-Mackey", href = "http://strimas.com",
                        target = "_blank"),
-                     " • Idea A Spencer • Data ",
+                     " • Idea A. Spencer • Data ",
                      a("eBird", href = "https://ebird.org", target = "_blank")
           ), 
           align = "center"

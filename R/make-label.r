@@ -7,7 +7,7 @@ make_label <- function(x) {
 # from http://rpubs.com/bhaskarvk/electoral-Map-2016
 label_template <- "
 <div style='font-size:12px;width:200px;float:left'>
-  <h4>{name}</h4>
+  <h4>{region_name}</h4>
   <div style='width:95%'>
     <span style='float:left'>Life Birds</span>
     <span style='float:right'>Species</span>
